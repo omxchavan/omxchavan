@@ -1,6 +1,6 @@
 # Hi there, I'm Om! 👋  
 
-I'm a passionate developer who loves to create and innovate with code. From web applications to games and beyond, I enjoy turning ideas into reality with technology. 🚀  
+ The prompt coder🚀  
 
 ## 🔭 Current Projects  
 - **Courier Management System**:  
@@ -18,15 +18,6 @@ I'm a passionate developer who loves to create and innovate with code. From web 
 - **Sorting Algorithms in C++**:  
   Delving into efficient sorting algorithms in my Striver-inspired C++ tasks.  
 
-## 🌱 What I'm Learning  
-- Advanced **React.js** and animations.  
-- **Blockchain technology** for innovative applications.  
-- **Game development** and interactive web experiences.  
-
-## 💬 Ask Me About  
-- React-based web development.  
-- Animating with **React Spring**.  
-- Simplifying complex ideas into intuitive user interfaces.  
 
 ## 👯 Let’s Collaborate!  
 If you're passionate about creating cool projects, building innovative web apps, or diving into blockchain, feel free to reach out!  
