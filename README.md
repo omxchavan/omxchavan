@@ -1,7 +1,7 @@
 # Hi there, I'm Om! 👋  
 the Promt coder
  
- <img src="./coding.gif" alt="coding-image" width="800" height="600"/>
+ <img src="./coding.gif" alt="coding-image" width="600" height="600" display="flex" Justify-content="center"/>
 
 
 ## 🔭 Current Projects  
