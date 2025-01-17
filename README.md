@@ -1,7 +1,7 @@
 # Hi there, I'm Om! 👋  
-
- The prompt coder🚀  
- <img src="./coding.gif" alt="coding-image" width="500"/>
+the Promt coder
+ 
+ <img src="./coding.gif" alt="coding-image" width="800"/>
 
 
 ## 🔭 Current Projects  
