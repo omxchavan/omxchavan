@@ -1,5 +1,5 @@
 # Hi there, I'm Om! 👋  
-the Promt coder
+The Prompt coder
  
  <img src="./coding.gif" alt="coding-image" width="600"/>
 
