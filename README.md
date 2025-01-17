@@ -1,7 +1,7 @@
 # Hi there, I'm Om! 👋  
 
  The prompt coder🚀  
- <img src="./coding.jpg" alt="coding-image" width="200"/>
+ <img src="./coding.gif" alt="coding-image" width="500"/>
 
 
 ## 🔭 Current Projects  
@@ -29,7 +29,7 @@ If you're passionate about creating cool projects, building innovative web apps,
 I’m always on the lookout for new ways to enhance user experiences through code and design.  
 
 ## 📫 How to Reach Me  
-- Email: [chavanom775@example.com]  
+- Email: [chavanom775@gmail.com]  
 - GitHub: [omxchavan](https://github.com/omxchavan)  
-
+- Linkedin: [omxchavan](https://www.linkedin.com/in/om-chavan-35b0a22a5/)  
 ### Thanks for visiting, and happy coding! 😄  
