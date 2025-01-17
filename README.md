@@ -17,8 +17,9 @@
 - **Portfolio Resume**:  
   Showcasing my skills and projects with a dynamic **Vite-powered portfolio**.  
 
-- **Sorting Algorithms in C++**:  
-  Delving into efficient sorting algorithms in my Striver-inspired C++ tasks.  
+- **Atlas game**:  
+  A game to test you knowledge of coountries**.
+
 
 
 ## 👯 Let’s Collaborate!  
