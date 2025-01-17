@@ -1,6 +1,8 @@
 # Hi there, I'm Om! 👋  
 
  The prompt coder🚀  
+ <img src="./coding.jpg" alt="coding-image" width="200"/>
+
 
 ## 🔭 Current Projects  
 - **Courier Management System**:  
