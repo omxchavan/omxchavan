@@ -1,5 +1,5 @@
 # Hi there, I'm Om! 👋  
-The Prompt coder
+
  
  <img src="./coding.gif" alt="coding-image" width="600" border-radiud="17%"/>
 
